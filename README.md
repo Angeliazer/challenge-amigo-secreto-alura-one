@@ -1,1 +1,1 @@
-<h1 style="color: red; align: center"> Seu título aqui </h1>
+<h1 style="color: red;"> Seu título aqui </h1>
