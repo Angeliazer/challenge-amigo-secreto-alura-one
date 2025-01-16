@@ -32,8 +32,9 @@ function sortearAmigo(){
         //Total de Amigos para sorteio....
         let numAmigos = listaAmigos.length;
 
-        //Maior número aleatório tem que ser
+        //Maior número aleatório tem que ser no máximo, o número de amigos para sorteio
         let amigoSorteado = parseInt(Math.random() * numAmigos) + 1;
+
         let lista = document.getElementById('resultado');
         let sorteado = document.createElement('li');
         sorteado.innerText = `O amigo secreto sorteado é: ${listaAmigos[amigoSorteado - 1]}`;
