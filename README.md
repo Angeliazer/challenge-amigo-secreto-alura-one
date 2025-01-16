@@ -13,9 +13,11 @@ Amigo secreto é uma página para sortear aleatóriamente um amigo secreto coloc
 
 ### Início
 
-<div align="center>
-  O página está disponível em : ww.www.wwwwew
-  </div>
+<div align="center">
+
+  A página está disponível em : ww.www.wwwwew
+
+</div>
 
 
 <div>
