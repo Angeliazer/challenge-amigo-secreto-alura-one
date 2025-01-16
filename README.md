@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" color="red">
+  <h1 align="center"; color="red">
     Sorteio de Amigo Secreto
     <br />
     <br />
