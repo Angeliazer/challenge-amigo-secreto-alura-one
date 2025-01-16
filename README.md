@@ -13,7 +13,9 @@ Amigo secreto é uma página para sortear aleatóriamente um amigo secreto coloc
 
 ### Início
 
-Coloque um nome no campo "Digite um nome" e click em no Botão Adicionar: <img src="https://github.com/user-attachments/assets/3d620983-2d19-4b37-a22c-b02b2d66c34b" alt="Botão Adicionar" width=50px height: 10px>
+<div>
+  <p>Coloque um nome no campo "Digite um nome" e click em no Botão Adicionar: </p><<img src="https://github.com/user-attachments/assets/3d620983-2d19-4b37-a22c-b02b2d66c34b" alt="Botão Adicionar" width=50px height: 10px>
+</div>
 
 
 
