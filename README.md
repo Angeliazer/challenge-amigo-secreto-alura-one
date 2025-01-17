@@ -21,7 +21,7 @@ Amigo secreto é uma página para sortear aleatóriamente um amigo secreto coloc
 </div>
 
 <div>
-  <img style="widht: 50px; height: 20px; fill=blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img style="widht: 100px; height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </div>
 
 
