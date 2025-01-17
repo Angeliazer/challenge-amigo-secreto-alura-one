@@ -30,6 +30,11 @@ Amigo secreto é uma página para sortear aleatóriamente um amigo secreto coloc
             </svg>
 </div>
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+          
+
           
 
 
