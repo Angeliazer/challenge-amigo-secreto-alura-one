@@ -20,6 +20,11 @@ Amigo secreto é uma página para sortear aleatóriamente um amigo secreto coloc
   <p>Logo aparecerá o nome do Amigo secreto sorteado.</p>
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/dynamic/json" alt="Imagem json" />
+</div>
+
+
 
 
 
