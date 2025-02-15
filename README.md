@@ -26,6 +26,8 @@ Amigo secreto é uma página para sortear aleatóriamente um amigo secreto coloc
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://img.shields.io/badge/JS-JS?style=for-the-badge&logoColor=%22red%22&logoSize=width%3A100&label=HTML&labelColor=black&color=yellow" />
+  
+![swift-package-manager](https://img.shields.io/badge/-Intellij%20IDEA-black?logo=intellijidea&logoColor=yellow&style=for-the-badge)
 
 </div>
 
